@@ -8,11 +8,12 @@ Indian Institute of Technology Kharagpur
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 ### Research Interests
-'-' Information extraction
-'-' Data Science
-'-' Spatial Data Analysis
-'-' GeoAI
-'-' Urban Modelling
+
+- '-' Information extraction, Data mining
+- '-' Data Science
+- '-' Spatial Data Analysis
+- '-' GeoAI
+- '-' Urban Modelling
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
