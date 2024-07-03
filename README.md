@@ -1,7 +1,7 @@
 
 Madhumita Dey
 ----------------------------------------------------------------------------------------------------------------------------------------------
-Doctoral Researcher (Geoinformatics Engineer)   
+Doctoral Researcher | Geoinformatics Engineer   
 Indian Institute of Technology Kharagpur
 ### madhumitapost@gmail.com, madhumitadey@kgpian.iitkgp.ac.in
 
