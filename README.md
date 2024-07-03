@@ -1,7 +1,8 @@
-## Hi there 👋
-
-<!--
-**ThePythonGirl/ThePythonGirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Madhumita Dey
+----------------------------------------------------------------------------------------------------------------------------------------------
+Doctoral Research Scholar, Geoinformatics Engineer
+Indian Institute of Technology Kharagpur
+<a href="madhumitapost@gmail.com"/> <a href="madhumitadey@kgpian.iitkgp.ac.in"/>
 
 Here are some ideas to get you started:
 
